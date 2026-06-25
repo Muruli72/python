@@ -1,0 +1,22 @@
+<catalog>
+   <book id="bk201">
+      <title>Let Us C</title>
+      <author>Yashavant Kanetkar</author>
+      <price>350.00</price>
+   </book>
+   <book id="bk202">
+      <title>Core Java</title>
+      <author>Herbert Schildt</author>
+      <price>500.00</price>
+   </book>
+   <book id="bk203">
+      <title>Python Crash Course</title>
+      <author>Eric Matthes</author>
+      <price>450.00</price>
+   </book>
+   <book id="bk204">
+      <title>Programming in ANSI C</title>
+      <author>E. Balagurusamy</author>
+      <price>400.00</price>
+   </book>
+</catalog>
