@@ -6,4 +6,4 @@ def f(n):
         return "Even"
     else:
         return "Odd"
-PI=3.14
+PI=3
