@@ -10,7 +10,7 @@ It includes practice programs, Jupyter notebooks, datasets, machine learning exp
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Hari** 👋
+Hi, I'm **Harish** 
 
 I'm currently learning and working with:
 
