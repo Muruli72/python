@@ -1,6 +1,6 @@
 # 🐍 Python Projects & Data Science
 
-Welcome to my **Python repository**! 🚀
+Welcome to my **Python repository**! 
 
 This repository contains my journey of learning and applying **Python, Data Analysis, Machine Learning, Data Visualization, and Python-based application development**.
 
@@ -8,7 +8,7 @@ It includes practice programs, Jupyter notebooks, datasets, machine learning exp
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hi, I'm **Harish** 
 
