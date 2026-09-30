@@ -18,6 +18,9 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
-flight_price.xlsx
-flights_eda.ipynb
-height-weight.csv
+
+# Secrets / credentials
+**/password.txt
+**/secrets.*
+.env
+.env.*
