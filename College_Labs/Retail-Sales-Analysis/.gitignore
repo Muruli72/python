@@ -1,0 +1,16 @@
+# Ignore downloaded datasets
+/data/*.xlsx
+/data/*.csv
+
+# Ignore generated Spark outputs
+/outputs/*
+!/outputs/.gitkeep
+
+# Ignore Python cache and environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Ignore macOS files
+.DS_Store
