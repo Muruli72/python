@@ -24,3 +24,5 @@ venv/
 **/secrets.*
 .env
 .env.*
+# Practice folder
+Practice/
