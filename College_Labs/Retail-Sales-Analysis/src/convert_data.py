@@ -24,3 +24,7 @@ workbook.close()
 
 print("Excel converted to CSV successfully!")
 print("CSV saved at:", csv_file)
+
+
+print("Current file:", Path(__file__))
+print("Project folder:", project_folder)
